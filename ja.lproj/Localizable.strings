@@ -277,8 +277,8 @@
 "History list" = "履歴リストの表示";
 "By activity entry" = "記録別";
 "By activity type" = "ログ種類別";
-"Pie chart" = "円グラフ";
-"Top level" = "全体的";
+"Pie chart" = "円グラフの表示";
+"Top level" = "全体的（グループ別）";
 
 // Settings - Activity Types
 "Color picker" = "色の選択";
