@@ -318,9 +318,9 @@
 "What are you doing now? Now running: %@" = "今は何をやってますか？今は「%@」を記録中";
 "Change" = "変更";
 
-"Start/end time precision" = "Start/end time precision";
-"Seconds" = "Seconds";
-"Minutes" = "Minutes";
+"Start/end time precision" = "開始／停止時の正確さ";
+"Seconds" = "秒間";
+"Minutes" = "分間";
 
 // Bulk Delete
 "Bulk Delete" = "一括削除";
