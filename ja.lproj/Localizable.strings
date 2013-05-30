@@ -113,8 +113,8 @@
 
 // Intervals
 "Edit interval" = "期間の編集";
-"From" = "開始日";
-"To" = "終了日";
+"From" = "開始";
+"To" = "終了";
 "Duration" = "記録時間";
 
 // Format
@@ -322,6 +322,7 @@
 "What are you doing now? Now running: %@" = "今は何をやってますか？今は「%@」を記録中";
 "Change" = "変更";
 
+"Precision" = "正確さ"
 "Start/end time precision" = "開始／停止時の正確さ";
 "Seconds" = "秒間";
 "Minutes" = "分間";
@@ -360,6 +361,8 @@
 "Welcome" = "ようこそ";
 "View" = "表示する";
 "No, thanks" = "表示しない";
+"Save error" = "保存時にエラー"
+"Activity type should be selected" = "アクティビティ種類の選択が必要です"
 
 // Predefined Activity Types
 "Sleep" = "睡眠";
